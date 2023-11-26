@@ -1,0 +1,6 @@
+.DS_Store/
+
+# Ignore all Quarto files for now
+awq-quantization_files/
+inspirative-text-prediction_files/
+*.html
